@@ -2,7 +2,6 @@
 - 👀 I’m interested in the linux world and opensource philosophy.
 - 🌱 I’m a sysadmin and developer at SEEWEB.
 - 💻 Currently working on different backend and frontend projects.
-- 🕯Grow or die.
 - 📫 [Linkedin](https://www.linkedin.com/in/alex-massaroni/)/[Email](mailto:alex.massaroni2004@gmail.com)
 
 <!---
